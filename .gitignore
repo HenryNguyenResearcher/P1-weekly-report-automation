@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+output/*.xlsx
+!output/weekly_report_demo.xlsx
