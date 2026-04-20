@@ -89,4 +89,4 @@ To use your own data, replace the CSV files in `data/` — the script will autom
 ---
 
 *Built as a portfolio project to demonstrate automation skills for Virtual Assistant / Operations roles.*  
-*Author: Nguyen Van Minh Hoang | [GitHub](https://github.com/HenryNguyenResearcher) | [hoangnvm.hust@gmail.com](mailto:hoangnvm.hust@gmail.com)*
+*Author: Nguyen Van Minh Hoang | [GitHub](https://github.com/HenryNguyenResearcher) | [hoangnvm.hust@gmail.com](mailto:hoangnv.hust@gmail.com)*
