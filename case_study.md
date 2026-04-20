@@ -45,8 +45,8 @@ python src/report_generator.py
 
 ## Results
 
-| | Manual Process | Automated |
-|--|--|--|
+| Metric | Manual Process | Automated |
+| --- | --- | --- |
 | Time per report | ~90 min | 0.12 sec |
 | Copy-paste errors | Occasional | Zero |
 | Rows handled | ~20 | 500+ |
@@ -61,6 +61,7 @@ The 90-minute weekly task became a one-second command.
 As a Virtual Assistant, I don't just complete tasks — I look for ways to make them disappear.
 
 This type of automation (reading raw data → producing clean output) applies to dozens of common VA workflows:
+
 - Weekly/monthly business reports
 - CRM data exports → formatted summaries
 - Invoice or expense tracking dashboards
@@ -70,5 +71,5 @@ If you're spending more than 30 minutes a week on a report that follows the same
 
 ---
 
-*Full source code: [github.com/your-username/weekly-report-automation](https://github.com)*  
-*Contact: hoangnvm.hust@gmail.com*
+*Full source code: [github.com/HenryNguyenResearcher/P1-weekly-report-automation](https://github.com/HenryNguyenResearcher/P1-weekly-report-automation)*  
+*Contact: [hoangnvm.hust@gmail.com](mailto:hoangnvm.hust@gmail.com)*
